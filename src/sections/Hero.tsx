@@ -210,7 +210,7 @@ export default function Hero() {
           <MagneticButton href="" icon={<FileText size={18} />}>
             arXiv
           </MagneticButton>
-          <MagneticButton href="" icon={<Github size={18} />}>
+          <MagneticButton href="https://github.com/songtianhui/SimpleSeg" icon={<Github size={18} />}>
             Code
           </MagneticButton>
           <MagneticButton href="https://huggingface.co/sthui/SimpleSeg" icon={<Box size={18} />}>

@@ -25,7 +25,7 @@ export default function Footer() {
               arXiv
             </a>
             <a
-              href=""
+              href="https://github.com/songtianhui/SimpleSeg"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-sm text-white/60 hover:text-[#4A9EFF] transition-colors"
