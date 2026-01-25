@@ -213,7 +213,7 @@ export default function Hero() {
           <MagneticButton href="https://github.com/songtianhui/SimpleSeg" icon={<Github size={18} />}>
             Code
           </MagneticButton>
-          <MagneticButton href="https://huggingface.co/sthui/SimpleSeg" icon={<Box size={18} />}>
+          <MagneticButton href="https://huggingface.co/collections/sthui/simpleseg" icon={<Box size={18} />}>
             🤗 Models
           </MagneticButton>
           <MagneticButton href="" icon={<Play size={18} />}>

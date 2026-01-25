@@ -34,7 +34,7 @@ export default function Footer() {
               Code
             </a>
             <a
-              href="https://huggingface.co/sthui/SimpleSeg"
+              href="https://huggingface.co/collections/sthui/simpleseg"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-sm text-white/60 hover:text-[#4A9EFF] transition-colors"
