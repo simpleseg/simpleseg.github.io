@@ -207,7 +207,7 @@ export default function Hero() {
 
         {/* Buttons */}
         <div ref={buttonsRef} className="flex flex-wrap justify-center gap-4">
-          <MagneticButton href="" icon={<FileText size={18} />}>
+          <MagneticButton href="https://arxiv.org/abs/2601.19228" icon={<FileText size={18} />}>
             arXiv
           </MagneticButton>
           <MagneticButton href="https://github.com/songtianhui/SimpleSeg" icon={<Github size={18} />}>
