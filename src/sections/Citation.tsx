@@ -5,11 +5,14 @@ import { Copy, Check } from 'lucide-react';
 
 gsap.registerPlugin(ScrollTrigger);
 
-const citationCode = `@article{simpleseg,
-  title={Towards Pixel-Level VLM Perception via Simple Points Prediction},
-  author={Song, Tianhui and Lu, Haoyu and Yang, Hao and Sui, Lin and Wu, Haoning and Zhou, Zaida and Huang, Zhiqi and Bao, Yiping and Y.Charles and Zhou, Xinyu and Wang, Limin},
-  journal={arXiv preprint arXiv:2025.xxxxx},
-  year={2025}
+const citationCode = `@misc{song2026pixellevelvlmperceptionsimple,
+      title={Towards Pixel-Level VLM Perception via Simple Points Prediction}, 
+      author={Tianhui Song and Haoyu Lu and Hao Yang and Lin Sui and Haoning Wu and Zaida Zhou and Zhiqi Huang and Yiping Bao and Y. Charles and Xinyu Zhou and Limin Wang},
+      year={2026},
+      eprint={2601.19228},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2601.19228}, 
 }`;
 
 export default function Citation() {
